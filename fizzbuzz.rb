@@ -10,3 +10,4 @@ def fizzbuzz(num)
   else
     puts "#{num}"
 end
+fizzbuzz(3)
